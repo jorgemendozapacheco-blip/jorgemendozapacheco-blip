@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge (Modo Estudiante) 👨‍🎓🚀
 
-<!--
-**jorgemendozapacheco-blip/jorgemendozapacheco-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚧 Bienvenido a mi Laboratorio de Aprendizaje 🚧
 
-Here are some ideas to get you started:
+Esta es mi cuenta secundaria dedicada exclusivamente a mi formación académica y al uso de herramientas del **GitHub Student Developer Pack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aquí es donde realizo mis pruebas, experimentos y prácticas universitarias.
+
+---
+
+### 🔭 ¿Qué estoy haciendo aquí?
+* 🧪 **Experimentando** con nuevas tecnologías de Infraestructura y Cloud.
+* 📚 **Aprendiendo** a fondo sobre Linux, Redes y AWS.
+* 🎓 Aprovechando los recursos de la **Universidad Autónoma del Perú**.
+
+---
+
+### ⚠️ ¿Buscas mi Portafolio Profesional?
+
+Si eres un reclutador o quieres ver mis proyectos serios y mi perfil de Ingeniero, por favor visita mi cuenta principal:
+
+👉 **[Visitar mi Perfil Profesional (@jorgemendozapachecoo-coder)](https://github.com/jorgemendozapachecoo-coder)** 👈
+
+---
+
+* ⚡ **Dato curioso:** En esta cuenta me permito cometer errores para aprender. En la otra, aplico las soluciones.
+* 📫 **Contacto:** jorgemendozapachecoo@gmail.com
