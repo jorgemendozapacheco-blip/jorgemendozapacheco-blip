@@ -1,4 +1,4 @@
-# Hi there, Welcome guys! 👋
+# Hi there, Welcome ! 👋
 
 ## I'm Jorge Eduardo Mendoza Pacheco 🇵🇪
 ### Systems Engineer | Cloud & Infrastructure Enthusiast ☁️ 🛠️
