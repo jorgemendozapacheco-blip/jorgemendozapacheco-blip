@@ -1,27 +1,41 @@
-# ¡Hola! Soy Jorge (Modo Estudiante) 👨‍🎓🚀
+# Hi there, Welcome! 👋
 
-### 🚧 Bienvenido a mi Laboratorio de Aprendizaje 🚧
-
-Esta es mi cuenta secundaria dedicada exclusivamente a mi formación académica y al uso de herramientas del **GitHub Student Developer Pack**.
-
-Aquí es donde realizo mis pruebas, experimentos y prácticas universitarias.
+## I'm Jorge Eduardo Mendoza Pacheco 🇵🇪
+### Systems Engineer | Cloud & Infrastructure Enthusiast ☁️ 🛠️
 
 ---
 
-### 🔭 ¿Qué estoy haciendo aquí?
-* 🧪 **Experimentando** con nuevas tecnologías de Infraestructura y Cloud.
-* 📚 **Aprendiendo** a fondo sobre Linux, Redes y AWS.
-* 🎓 Aprovechando los recursos de la **Universidad Autónoma del Perú**.
+Hello! 👋 My name is **Jorge Eduardo Mendoza Pacheco**. I am a Systems Engineer from **Lima, Peru**, graduated from **Universidad Autónoma del Perú**.
+
+I have a huge interest in **Cloud Infrastructure (AWS)**, **Networking**, and **Cybersecurity** 🔐. Unlike traditional software development, my true passion lies in the **foundations** of technology: the Hardware, Architecture, and Security that make everything work.
+
+Currently, I am an **AWS Certified Solutions Architect** (Associate) working on re-validating my skills and diving deeper into **Network Security** and **CompTIA Network+**.
+
+I love solving complex infrastructure problems and optimizing systems to be efficient and secure 🚀.
+
+### Core Skills:
+Cloud Architecture | Network Administration | Data Analysis | IT Support | Hardware & IoT
+
+### Tools & Technologies:
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+</p>
 
 ---
 
-### ⚠️ ¿Buscas mi Portafolio Profesional?
-
-Si eres un reclutador o quieres ver mis proyectos serios y mi perfil de Ingeniero, por favor visita mi cuenta principal:
-
-👉 **[Visitar mi Perfil Profesional (@jorgemendozapachecoo-coder)](https://github.com/jorgemendozapachecoo-coder)** 👈
+* 🔭 **I’m currently working on:** Logistics systems optimization and infrastructure projects.
+* 🌱 **I’m currently learning:** CompTIA Network+ and Offensive Security (Ethical Hacking).
+* 💬 **Ask me about:** PC Hardware, Network Configuration, AWS, and Cloud Solutions.
+* 📫 **How to reach me:** jorgemendozapachecoo@gmail.com and User LinkedIn : www.linkedin.com/in/jorge-mendoza-pachecoo
+* ⚡ **Fun fact:** I call myself the **"Actor Engineer"** 🎭. I love combining technical logic with creative storytelling.
 
 ---
-
-* ⚡ **Dato curioso:** En esta cuenta me permito cometer errores para aprender. En la otra, aplico las soluciones.
-* 📫 **Contacto:** jorgemendozapachecoo@gmail.com
+<p align="left">
+<a href="https://www.linkedin.com/in/jorge-mendoza-pachecoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-mendoza-pachecoo" height="30" width="40" /></a>
+</p>
+</p>
