@@ -32,7 +32,7 @@ Cloud Architecture | Network Administration | Data Analysis | IT Support | Hardw
 * 🌱 **I’m currently learning:** CompTIA Network+ and Offensive Security (Ethical Hacking).
 * 💬 **Ask me about:** PC Hardware, Network Configuration, AWS, and Cloud Solutions.
 * 📫 **How to reach me:** jorgemendozapachecoo@gmail.com and User LinkedIn : www.linkedin.com/in/jorge-mendoza-pachecoo
-* ⚡ **Fun fact:** I call myself the **"Actor Engineer"** 🎭. I love combining technical logic with creative storytelling.
+* ⚡ **I really enjoy creating content through explanations or fun content. Visit Cocori on YouTube.
 
 ---
 <p align="left">
