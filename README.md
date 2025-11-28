@@ -9,7 +9,7 @@ Hello! 👋 My name is **Jorge Eduardo Mendoza Pacheco**. I am a Systems Enginee
 
 I have a huge interest in **Cloud Infrastructure (AWS)**, **Networking**, and **Cybersecurity** 🔐. Unlike traditional software development, my true passion lies in the **foundations** of technology: the Hardware, Architecture, and Security that make everything work.
 
-Currently, I am an **AWS Certified Solutions Architect** (Associate) working on re-validating my skills and diving deeper into **Network Security** and **CompTIA Network+**.
+Currently, I am working towards becoming an AWS Certified Solutions Architect (Associate) and am working to revalidate my skills and deepen my knowledge in Network Security and CompTIA Network+.
 
 I love solving complex infrastructure problems and optimizing systems to be efficient and secure 🚀.
 
